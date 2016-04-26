@@ -6,7 +6,7 @@ hubSlider.js
 
 Codepen [http://codepen.io/anon/pen/eZLMjd] (Codepen Hublabs!)
 
-Download [http://hublabs.github.io/hubSlider] (Github Download!)
+Download [http://hublabs.github.io/hubSlider] (Download!)
 
 Kullanım
 --------
