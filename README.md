@@ -45,4 +45,4 @@ $('.hub-slider-slides ul').hubSlider({
 
 ♥ Built with Love
 =======
-[![Hublabs Yazılım Ofisi](http://www.hublabs.com.tr/images/logo-white.png)](http://www.hublabs.com.tr)
+[![Hublabs Yazılım Ofisi](http://www.hublabs.com.tr/images/logo-white.png?v=13223423)](http://www.hublabs.com.tr)
