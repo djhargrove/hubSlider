@@ -2,11 +2,11 @@ hubSlider.js
 =======
 **hubSlider.js**, javascript ve css3 ile çalışan, kullanımı kolay ve özelleştirilebilir slider kütüphanesidir. 
 
-Çalışan halini [http://academy.hublabs.com.tr/hubslider](academy.hublabs.com.tr/hubslider) adresinde görebilirsiniz.
+Çalışan halini [http://academy.hublabs.com.tr/hubslider](http://academy.hublabs.com.tr/hubslider) adresinde görebilirsiniz.
 
 Codepen [http://codepen.io/anon/pen/eZLMjd] (Codepen Hublabs!)
 
-Download [http://hublabs.github.io/hubSlider]
+Download http://hublabs.github.io/hubSlider
 
 Kullanım
 --------
