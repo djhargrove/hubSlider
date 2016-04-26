@@ -1,5 +1,5 @@
 /**
- * Created by ufukOzarslan on 25.04.16.
+ * Created by ufukOzarslan & burakErmeydan on 25.04.16.
  */
 
 jQuery.fn.hubSlider = function (config) {
