@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+    <title>Hublabs Slider Example</title>
+    <link rel="stylesheet" href="style.css"/>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+
+    <script type="text/javascript" src="hubslider.js"></script>
+    <script type="text/javascript">
+        $(function () {
+
+            $('.hub-slider-slides ul').hubSlider({
+                selector: $('li'),
+                button: {
+                    next: $('.hub-slider-arrow_next'),
+                    prev: $('.hub-slider-arrow_prev')
+                },
+                transition: '0.7s',
+                startOffset: 30,
+                auto: true,
+                time: 2
+            });
+
+        })
+    </script>
+
+</head>
+<body>
+
+<div class="container">
+
+    <div class="hub-slider">
+
+        <div class="hub-slider-slides">
+            <ul>
+                <li>1 test</li>
+                <li>2 test</li>
+                <li>3 test</li>
+                <li>4 test</li>
+            </ul>
+        </div>
+
+        <div class="hub-slider-controls">
+            <button class="hub-slider-arrow hub-slider-arrow_next">↑</button>
+            <button class="hub-slider-arrow hub-slider-arrow_prev">↓</button>
+        </div>
+
+    </div>
+
+</div>
+
+</body>
+</html>
