@@ -6,21 +6,21 @@
     <link rel="stylesheet" href="style.css"/>
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
 
-    <script type="text/javascript" src="hubslider.js"></script>
+    <script type="text/javascript" src="hubslider.min.js"></script>
     <script type="text/javascript">
         $(function () {
 
-            $('.hub-slider-slides ul').hubSlider({
-                selector: $('li'),
-                button: {
-                    next: $('.hub-slider-arrow_next'),
-                    prev: $('.hub-slider-arrow_prev')
-                },
-                transition: '0.7s',
-                startOffset: 30,
-                auto: true,
-                time: 2
-            });
+$('.hub-slider-slides ul').hubSlider({
+    selector: $('li'),
+    button: {
+        next: $('.hub-slider-arrow_next'),
+        prev: $('.hub-slider-arrow_prev')
+    },
+    transition: '0.7s',
+    startOffset: 30,
+    auto: true,
+    time: 2 // secondly
+});
 
         })
     </script>
