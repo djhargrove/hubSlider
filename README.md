@@ -43,6 +43,5 @@ $('.hub-slider-slides ul').hubSlider({
 `transition` Buttonlar aktif edildiğinde slider geçişlerinde animasyon efektini gösterir.
 
 
-
-
-
+♥ Built with Love
+=======
