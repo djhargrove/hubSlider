@@ -4,6 +4,8 @@ hubSlider.js
 
 Çalışan halini [academy.hublabs.com.tr/hubslider](academy.hublabs.com.tr/hubslider) adresinde görebilirsiniz.
 
+Codepen [http://codepen.io/anon/pen/eZLMjd] (Codepen Hublabs!)
+
 Kullanım
 --------
 ```js
