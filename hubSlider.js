@@ -18,7 +18,7 @@ jQuery.fn.hubSlider = function (config) {
         scaleStep: '0.05',
         transition: '0.6s',
         auto: false,
-        time: 3 // sn.
+        time: 3 // secondly.
     }, config);
 
     try {
