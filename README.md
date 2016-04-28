@@ -8,6 +8,12 @@ Codepen [http://codepen.io/anon/pen/eZLMjd] (Codepen Hublabs!)
 
 Download http://hublabs.github.io/hubSlider
 
+Bower
+---------
+```shell
+bower install hubslider
+```
+
 Kullanım
 --------
 ```js
